@@ -1,0 +1,13 @@
+{
+    "sports" : [
+        {
+            "sport" : "Football"
+        },
+        {
+            "sport" : "Cricket"
+        },
+        {
+            "sport" : "Volleyball"
+        }
+    ]
+}

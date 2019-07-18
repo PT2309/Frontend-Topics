@@ -1,0 +1,16 @@
+.go{
+    padding: 10px;
+    border: 1px solid green;
+    color: green;
+}
+
+.stop{
+    padding: 10px;
+    border: 1px solid red;
+    color: red;
+}
+
+.title{
+    text-decoration: underline;
+    color: red;
+}

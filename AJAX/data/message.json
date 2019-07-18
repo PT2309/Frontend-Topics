@@ -1,0 +1,13 @@
+{
+    "message" : [
+        {
+            "greeting" : "Good Morning"
+        },
+        {
+            "greeting" : "Good Evening"
+        },
+        {
+            "greeting" : "Good Night"
+        }
+    ]
+}
