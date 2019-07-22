@@ -42,7 +42,7 @@ var users = [userOne, userTwo];
 // console.log(users);
 
 // admin.deleteUser(userTwo);
-admin.deleteUser(userTwo);
 
-// console.log(users);
+
+console.log(userOne);
 
